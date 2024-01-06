@@ -1,0 +1,10 @@
+{
+    "cSpell.words": [
+        "overfitting",
+        "semisupervised"
+    ],
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true
+      } 
+}
